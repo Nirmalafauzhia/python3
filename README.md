@@ -6,9 +6,9 @@
 # - Checking Numpy Version
 ![image](https://github.com/Nirmalafauzhia/python3/assets/146448514/a915af84-40c0-46c0-ae8c-45e7a4ac1f19)
 # - Creating a Numpy Array
-![WhatsApp Image 2023-10-07 at 10 57 30_867f953b](https://github.com/Nirmalafauzhia/python3/assets/146448514/4f9b6e94-1d43-4259-bb65-251498f414ce)
+![image](https://github.com/Nirmalafauzhia/python3/assets/146448514/f738a378-1d1f-4c49-b420-23a590e46c47)
 # - Use a Tuple to Create a Numpy Array
-![WhatsApp Image 2023-10-07 at 11 01 49_911d7903](https://github.com/Nirmalafauzhia/python3/assets/146448514/48af422e-21ab-4b75-bda3-4e1a7e4fab10)
+
 # - Dimensions in Array 
 - A dimension in arrays is one level of array depth (nested arrays).
 - 0 Dimensions Array
