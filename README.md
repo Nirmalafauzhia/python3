@@ -12,9 +12,9 @@
 # - Dimensions in Array 
 - A dimension in arrays is one level of array depth (nested arrays).
 - 0 Dimensions Array
-
+![image](https://github.com/Nirmalafauzhia/python3/assets/146448514/2b93fd91-adcf-4329-aa12-d89a11d55a5b)
 - 1 Dimension Array
-- ![WhatsApp Image 2023-10-07 at 11 06 41_a22a909d](https://github.com/Nirmalafauzhia/python3/assets/146448514/904f6738-4fb1-436d-adab-a67089d2e005)
+
 - 2 Dimensions Array Containing 2 Array
 - ![WhatsApp Image 2023-10-07 at 12 21 17_8ee8f627](https://github.com/Nirmalafauzhia/python3/assets/146448514/dd25a926-b86f-4358-a98c-6137baf716b5)
 - 3 Dimensions Array With 2 Dimensions Array Both Containing Two Array
