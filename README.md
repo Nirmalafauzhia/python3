@@ -73,9 +73,9 @@
 # 2.2 Loc an Iloc
 - Loc is for calling its explicit index.
 - Iloc is for calling its implicit index.
-![WhatsApp Image 2023-10-07 at 13 17 59_2f2ea03d](https://github.com/Nirmalafauzhia/python3/assets/146448514/f60ed2dc-eb3f-4756-b127-f2a9106691c7)
+- ![WhatsApp Image 2023-10-07 at 13 17 59_2f2ea03d](https://github.com/Nirmalafauzhia/python3/assets/146448514/f60ed2dc-eb3f-4756-b127-f2a9106691c7)
 # - Create Dictionary From Series 
-![WhatsApp Image 2023-10-07 at 13 23 15_d9452e91](https://github.com/Nirmalafauzhia/python3/assets/146448514/20dc475e-a869-4336-82b3-8571959f5118)
+- ![WhatsApp Image 2023-10-07 at 13 23 15_d9452e91](https://github.com/Nirmalafauzhia/python3/assets/146448514/20dc475e-a869-4336-82b3-8571959f5118)
 
 # 2.3 Data Frame  
 - Data Frame is a collection of series, with at least one series.
@@ -83,21 +83,41 @@
 
 # 2.4 Titanic CSV 
 # - Load Data Titanic 
+- ![WhatsApp Image 2023-10-07 at 14 14 28_e630a299](https://github.com/Nirmalafauzhia/python3/assets/146448514/02e3e009-a77c-4a11-9638-635318c28402)
 # - Displays Data From Head
+- ![WhatsApp Image 2023-10-07 at 14 15 11_9082aa1f](https://github.com/Nirmalafauzhia/python3/assets/146448514/7dc317c2-8a37-4c70-a2b5-00ab0c924e13)
 # - Displays Info Data
+- ![WhatsApp Image 2023-10-07 at 14 16 28_c46a3184](https://github.com/Nirmalafauzhia/python3/assets/146448514/8554ff62-adff-4171-a857-a51e8a8cb45e)
 # - Displays The Number of Rows and The Number of Columns
+- ![WhatsApp Image 2023-10-07 at 14 17 36_f06a2b0c](https://github.com/Nirmalafauzhia/python3/assets/146448514/a24e9790-353f-4b6a-8aae-3e9b4c634257)
 # - Displays Data From Columns
+- ![WhatsApp Image 2023-10-07 at 14 18 06_a7edd465](https://github.com/Nirmalafauzhia/python3/assets/146448514/f5d75e0c-aa66-4270-b090-a486abba7407)
 # - Displays Data From Index
+- ![WhatsApp Image 2023-10-07 at 14 18 44_f858f6ea](https://github.com/Nirmalafauzhia/python3/assets/146448514/815b66e8-c5d9-42b3-a258-7b7db76b210f)
 # - Displays Information From Columns in The From of Number
+- ![WhatsApp Image 2023-10-07 at 14 19 16_7213806f](https://github.com/Nirmalafauzhia/python3/assets/146448514/8168bbed-01f7-457d-bee6-1a2023b3e6e0)
 # - Displays The Sum Of Not Null From Head
+- ![WhatsApp Image 2023-10-07 at 14 21 55_a5357af1](https://github.com/Nirmalafauzhia/python3/assets/146448514/3074412a-0c2a-43ef-8b83-8c49fa200c7b)
 # - Displays The Sum Is Null From Head
+![WhatsApp Image 2023-10-07 at 14 22 26_a5f2b17d](https://github.com/Nirmalafauzhia/python3/assets/146448514/934cd599-03c1-429f-8cd3-e43f25d353aa)
 # - Displays The Amount From Head
+- ![WhatsApp Image 2023-10-07 at 14 23 44_25d3851e](https://github.com/Nirmalafauzhia/python3/assets/146448514/58ac518b-0514-42a1-b9ea-3cb4c1c5d716)
 # - Displays The Mean of Columns
+- ![WhatsApp Image 2023-10-07 at 14 24 33_5c5eb9de](https://github.com/Nirmalafauzhia/python3/assets/146448514/8a412fc6-ad6d-4541-844f-88ff73215204)
 # - Displays The Median of Columns
+- ![WhatsApp Image 2023-10-07 at 14 25 05_7d40054f](https://github.com/Nirmalafauzhia/python3/assets/146448514/8dfbbea9-2ff9-4fd7-a287-d54339837763)
 # - Displays The Modus of Columns
+- ![WhatsApp Image 2023-10-07 at 14 25 41_7024945f](https://github.com/Nirmalafauzhia/python3/assets/146448514/1095cde0-f50e-4001-9196-d291cbeb0f9a)
 # - Displays The Minimal of Columns
+- ![WhatsApp Image 2023-10-07 at 14 26 19_9339d6fb](https://github.com/Nirmalafauzhia/python3/assets/146448514/15636e21-b7c2-446a-bfb7-c48dd7cb2220)
 # - Displays The Maximal of Columns
+- ![WhatsApp Image 2023-10-07 at 14 26 47_699a91ac](https://github.com/Nirmalafauzhia/python3/assets/146448514/4876d16a-62ca-42dd-b56f-33fff2ab0950)
+
 # 2.5 Mini Project Preparation
 # - Task 1
+- ![WhatsApp Image 2023-10-07 at 14 09 36_000c03ae](https://github.com/Nirmalafauzhia/python3/assets/146448514/4ed2b067-140b-4210-93e6-8c387bdf10e6)
 # - Task 2
+- ![WhatsApp Image 2023-10-07 at 14 10 24_7236e881](https://github.com/Nirmalafauzhia/python3/assets/146448514/e84ceb74-911d-4a36-9b98-34b2401f0c08)
 # - Task 3
+- ![WhatsApp Image 2023-10-07 at 14 11 09_d846bfbc](https://github.com/Nirmalafauzhia/python3/assets/146448514/6b4d7032-3a6c-4ed1-940d-8c9783485b99)
+
