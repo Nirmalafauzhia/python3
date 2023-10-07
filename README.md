@@ -2,7 +2,8 @@
 - NumPy is a module that aims to make calculations in Python lighter.
 - NumPy (Numerical Python): to form and manipulate arrays. NumPy focuses on scientific computing.
 # - Import Numpy
-![WhatsApp Image 2023-10-07 at 10 40 03_1651dac9](https://github.com/Nirmalafauzhia/python3/assets/146448514/2f7554e3-ed36-449d-b5eb-0e6b100bd08e)
+- ![WhatsApp Image 2023-10-07 at 10 40 03_1651dac9](https://github.com/Nirmalafauzhia/python3/assets/146448514/2f7554e3-ed36-449d-b5eb-0e6b100bd08e)
+- [Documentation](https://github.com/Nirmalafauzhia/python3/blob/main/Documentation/273361236-2f7554e3-ed36-449d-b5eb-0e6b100bd08e.jpg)
 # - Checking Numpy Version
 ![WhatsApp Image 2023-10-07 at 10 49 47_4a5050fe](https://github.com/Nirmalafauzhia/python3/assets/146448514/9bfc771b-aeca-4821-aaa6-bb7b6c20e027)
 # - Creating a Numpy Array
